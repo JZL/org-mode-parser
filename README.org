@@ -1,7 +1,7 @@
 # -*- mode: org ; mode: visual-line; -*- -*
 #+SETUPFILE: ~/.emacs.d/config.org
 #+TITLE:README.org
-* A Nodejs org mode parser module
+* A +Nodejs+ google apps script org mode parser module
 ** "So What?"
 This node.js module implements a [[http://orgmode.org/][org-mode]] file format parser.
 Org-mode is a cool Emacs package let you structuring information in a nice way, 
