@@ -2,6 +2,8 @@
 #+SETUPFILE: ~/.emacs.d/config.org
 #+TITLE:README.org
 * A +Nodejs+ google apps script org mode parser module
+This is some slight modifications in order to make this parser work with google apps script, a javascript runtime on google cloud, in order to make a FREE server-side org->ics converter
+
 ** "So What?"
 This node.js module implements a [[http://orgmode.org/][org-mode]] file format parser.
 Org-mode is a cool Emacs package let you structuring information in a nice way, 
